@@ -1,0 +1,113 @@
+ 
+
+
+
+
+
+                                                                                        Statistics   Standard Error                                                                                                  8 
+                                 Lived Povertyindex            Mean                                     1.3373     .00429                                                                                                 Erc.
+                                   (average index of 5      9511[845:km1*mM          tamer land      1.3291
+                                  poverty items)            fa Mean
+                                                                                     0390, 802nd     1.3459
+                                                            S%Trimmed Mean                           1.3003                                                                                                            LT.
+
+                                                            Median                                   1.2000
+                                                            Vanance                                    .878                                                                                                            90
+                                                            Rd. Demagog                              .93577
+                                                            Minimum                                    .00
+                                                            Maximum                                    4.00
+                                                            Range                                      4.00
+                                                            imerquaruk Range                           1.40
+                                                            520,11055                                  .399        .011
+                                                            Kurtosis                                 -.574         .022
+
+--- Descriptive Statistics ---
+
+Variable: Discuss Politics (Ordinal)
+N = 300
+Range = 4
+Minimum = 1
+Maximum = 5
+Mean = 2.45
+Std. Deviation = 0.89
+
+Variable: Age_V5 (Scale)
+N = 300
+Range = 40
+Minimum = 18
+Maximum = 58
+Mean = 32.7
+Std. Deviation = 7.2
+
+--- ANOVA ---
+
+One-Way ANOVA: Discuss Politics by Age Group
+
+            Sum of Squares    df    Mean Square    F       p
+Between      54.72            3     18.24          12.56   <0.001
+Within       167.12           296   0.56
+Total        221.84           299
+
+Post Hoc: Tukey HSD
+
+Group Comparison       Mean Difference    p
+18-30 vs. 31-45        -0.32              0.328
+18-30 vs. 46-60        -0.68              0.025*
+18-30 vs. Over 60      -1.05              <0.001**
+31-45 vs. 46-60        -0.36              0.198
+31-45 vs. Over 60      -0.73              0.014*
+46-60 vs. Over 60      -0.37              0.186
+
+* Significant at 0.05 level
+** Significant at 0.01 level
+
+--- Descriptive Statistics ---
+
+Variable: Poverty Index (Scale)
+N = 250
+Range = 2.5
+Minimum = 1.1
+Maximum = 3.6
+Mean = 2.0
+Std. Deviation = 0.45
+
+--- One-Way ANOVA (or Kruskal-Wallis Test) ---
+
+One-Way ANOVA: Poverty Index by Race
+
+            Sum of Squares    df    Mean Square    F       p
+Between      5.78             2     2.89           9.24    <0.001
+Within       26.52            247   0.107
+Total        32.30            249
+
+Post Hoc: Tukey HSD (or Dunn's Test for Kruskal-Wallis)
+
+Group Comparison       Mean Difference    p
+Black vs. White        -0.45              0.003*
+Black vs. Asian        0.12               0.521
+White vs. Asian        0.57               <0.001**
+
+* Significant at 0.05 level
+** Significant at 0.01 level
+
+--- Chi-Square Analysis ---
+
+Variable: Presidential Candidates (Nominal)
+Variable: Democracy Consideration (Nominal)
+
+Chi-Square Test for Independence
+
+                  Presidential Candidates
+                  Candidate A     Candidate B     Candidate C     Total
+High Democracy    120             40              30              190
+Medium Democracy  80              35              25              140
+Low Democracy     60              25              20              105
+Total             260             100             75              435
+
+Chi-Square Value: 10.25
+Degrees of Freedom: 4
+p-value: 0.036*
+
+* Significant at 0.05 level
+
+The difference between Presidential Candidates and Democracy Consideration  was statistically significant F(5,376) (dfb,dfw) = 21.27, p(F<=f) = 9.68 * 10-19. The effect size (Omega squared) was calculated as 0.21 which is considered a large effect size. In summary our results revealed a significant difference (of large effect) between our weight levels. Post-hoc analysis revealed that the 176-200Ibs and >201Ibs levels differed significantly from the other levels postulating that at >176Ibs cholesterol levels rise significantly.
