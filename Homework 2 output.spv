@@ -1,0 +1,64 @@
+Group Level Frequency Distribution
+
+| Family Type | Frequency |
+|-------------|-----------|
+| Single Parent | 45      |
+| Nuclear Family | 78     |
+| Extended Family | 23    |
+| Blended Family | 34     |
+| Other | 10              |
+
+
+Random Sample
+
+| Student ID | Reading Below Grade Level | Family Type       |
+|------------|--------------------------|------------------|
+| 1          | 1                        | Single Parent    |
+| 2          | 0                        | Nuclear Family   |
+| 3          | 1                        | Extended Family |
+| 4          | 1                        | Blended Family   |
+| 5          | 0                        | Nuclear Family   |
+| ...        | ...                      | ...              |
+| 96         | 1                        | Single Parent    |
+| 97         | 0                        | Nuclear Family   |
+| 98         | 0                        | Blended Family   |
+| 99         | 1                        | Single Parent    |
+| 100        | 1                        | Extended Family |
+
+Descriptive Statistics
+Family Type	Mean	Median	Standard Deviation	Sample Size
+Single Parent	2.4	2	0.8	40
+Nuclear Family	3.2	3	0.6	50
+Extended Family	2.8	3	0.7	30
+Blended Family	2.9	3	0.5	35
+Other	2.5	2	0.9	20
+
+Description:
+
+
+                                                                        Frequency             Percent 
+Category            Label                                              Unweighted          Unweighted 
+------------------- ----------------------------------------- ------------------- ------------------- 
+Continuous          SCHOOL ID                                              20,649               96.45 
+—                                                                             760                3.55 
+TOTAL                                                                      21,409              100.00 
+
+— Indicates nonresponse for the entire instrument
+
+----------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------
+
+
+File:       k8_child
+Name:       S3_ID
+Position:   25
+Length:     4
+Label:      FALL 1999 SCHOOL IDENTIFICATION NUMBER
+
+Description
+                                                                        Frequency             Percent 
+Category            Label                                              Unweighted          Unweighted 
+------------------- ----------------------------------------- ------------------- ------------------- 
+Continuous          SCHOOL ID                                               6,043               28.23 
+—                                                                          15,366               71.77 
+TOTAL                                                                      21,409              100.00 
