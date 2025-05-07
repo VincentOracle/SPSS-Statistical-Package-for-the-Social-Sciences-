@@ -94,6 +94,7 @@ A research hypothesis is assessed using a dependent samples t-test on a hypothet
 
 #### 4c) Description of the research hypothesis and support from the hypothetical data
 From the hypothetical data containing the height and weight Variables, it is noted that the dependent t-test can look for "differences" between means when the 10 participants are measured on the same dependent variable under different conditions, thereby supporting the research hypothesis. In addition, the one-sided p-value of 0.012 (p=0.012) and the two-sided p-value of  0.024(p=0.024) are less than the 0.05 two-tailed significant level suggesting the test is significant; thus, there is a significant relationship between the height and the weight variables (Cleophas et al.,2010).
+
 ## Conclusion
 In conclusion, the Compare Means procedure might be helpful when comparing variations in descriptive statistics across one or more factors or categorical variables. In addition, two tables will be produced by the Compare Means procedures: the Case Processing Summary, which includes details about the number of valid cases used to generate the statistics, and the Report table, which includes the descriptive statistics themselves (Plonsky,2015). Therefore when comparing multiple numerical variables to one or more categorical variables, Compare Means is the method of choice even when summarizing numerical variables simultaneously across categories; it is helpful (Orcan,2020).
 
